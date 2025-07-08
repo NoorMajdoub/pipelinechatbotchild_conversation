@@ -39,8 +39,6 @@ pipelinechatbot2.ipynb  # Main notebook for the chatbot pipeline
 * Ensure proper authentication is set up for Google APIs (OAuth2 tokens or service accounts).
 * Adjust configurations as per your chatbot's platform (Dialogflow, custom ML models, etc.).
 
-## License
 
-This project is for educational/demo purposes.
 
 
